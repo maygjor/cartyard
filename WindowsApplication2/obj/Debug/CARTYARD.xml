@@ -1,0 +1,594 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CARTYARD
+</name>
+</assembly>
+<members>
+<member name="T:CARTRADE.prac1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.informationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.accountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.adminaccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.deliveryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.myordersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.useraccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.workinprogressDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.accountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.adminaccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.deliveryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.informationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.myordersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.useraccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.workinprogressRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.accountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.adminaccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.deliveryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.informationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.myordersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.useraccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSet.workinprogressRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.accountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.adminaccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.bidsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.deliveryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.progressDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.saleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.tradesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.useraccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.onlineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.stockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.accountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.adminaccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.bidsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.deliveryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.progressRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.saleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.tradesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.useraccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.onlineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.stockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.accountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.adminaccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.bidsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.deliveryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.progressRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.saleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.tradesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.useraccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.onlineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet.stockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.accountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.adminaccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.bidsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.deliveryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.progressTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.saleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.tradesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.useraccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.onlineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.stockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CARTRADE.trade1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CARTRADE.trade1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CARTRADE.trade1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager.UpdateAll(CARTRADE.trade1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1.onlineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1.onlineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1.onlineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1TableAdapters.onlineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(CARTRADE.trade1DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(CARTRADE.trade1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(CARTRADE.trade1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager.UpdateAll(CARTRADE.trade1DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CARTRADE.trade1DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CARTRADE.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CARTRADE.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CARTRADE.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.accountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.adminaccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.deliveryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.informationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.myordersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.useraccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.workinprogressTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CARTRADE.prac1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CARTRADE.prac1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CARTRADE.prac1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager.UpdateAll(CARTRADE.prac1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CARTRADE.prac1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stockset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stockset.stockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stockset.stockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stockset.stockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stocksetTableAdapters.stockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CARTRADE.trade1stockset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager.UpdateInsertedRows(CARTRADE.trade1stockset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager.UpdateDeletedRows(CARTRADE.trade1stockset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager.UpdateAll(CARTRADE.trade1stockset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CARTRADE.trade1stocksetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="F:CARTRADE.trades.id">
+ 
+ '
+ 
+</member>
+<member name="F:CARTRADE.trades.trades_selected_args">
+ 
+</member>
+</members>
+</doc>
