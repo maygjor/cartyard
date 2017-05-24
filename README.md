@@ -3,6 +3,8 @@
 <br>
 <img src="https://preview.ibb.co/b23Pkk/trade2.png" alt="trade2" border="0" width="720px" hieght="600px"/>
 <br>
+<img src="https://image.ibb.co/ivWatF/trade1.png" alt="trade2" border="0" width="720px" hieght="600px"/>
+<br>
 <strong>the Cartyard application provide frindly graphical interface for the client to sell cars.</strong>
 <br>
 <img src="https://preview.ibb.co/e8earQ/sale.png" alt="sale" border="0" width="720px" hieght="600px"/>
