@@ -24,4 +24,3 @@
 <br>
 <strong>direct interactions with clients .</strong>
 <br>
-<img src="https://image.ibb.co/daTX5k/chat.png" alt="chat" border="0" width="720px" hieght="600px"/>
